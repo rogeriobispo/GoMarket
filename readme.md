@@ -12,6 +12,6 @@ a simple mobile app to simulate a cart from a marketplace
 
 # Telas
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/rogeriobispo/GoMarket/blob/master/img1.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/rogeriobispo/GoMarket/blob/master/img2.png)
