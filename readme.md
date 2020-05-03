@@ -10,3 +10,8 @@ a simple mobile app to simulate a cart from a marketplace
 - eslint
 - prettier
 
+# Telas
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
